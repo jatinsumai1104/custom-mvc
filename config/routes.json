@@ -1,0 +1,17 @@
+{
+  "custom_mvc/users": {
+    "controller": "User",
+    "method": "getAll"
+  },
+  "custom_mvc/user/:id": {
+    "controller": "User",
+    "method": "getById",
+    "params": {
+      "id": "number"
+    }
+  },
+  "custom_mvc/": {
+    "controller": "User",
+    "method": "getAll"
+  }
+}
