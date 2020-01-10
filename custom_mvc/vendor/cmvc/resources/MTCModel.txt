@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use App\Exceptions\NotFoundException;
+
+class Model extends AbstractModel{
+
+  public function __construct($db){
+    parent::__construct($db);
+  }
+  
+}
