@@ -1,9 +1,0 @@
-{
-  "db": {
-    "user": "Jatin",
-    "password": "jatin@99",
-    "db_name": "test",
-    "host": "localhost"
-  },
-  "log": "../logs/user.log"
-}
