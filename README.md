@@ -1,5 +1,5 @@
 # Custom MVC
-A Custom MVC structure build on Core php
+A Custom MVC structure build on Core php with Java CLI commands Input
 ```diff
 + Now you can create Project using Comand Prompt
 ```
